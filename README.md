@@ -2,7 +2,16 @@
 
 I'm a Computer Engineering student at UFMS and a Business student at UNIGRAN, I love learning new subjects, I'm very interested in web development, I also learn about the Stock Exchange and Forex since 2017 and I have a relationship of love and hate with Machine Learning. :joy:
 
-:mailbox: If you want to connect with me, you can find me on [![LinkedIn][2.2]][2].
+
+
+🚧 | Full Stack in development
+🎓 | Computer Engineering Student
+🎓 | Business Student
+📈 | Stock Market enthusiast
+📊 | Machine Learning enthusiast
+
+
+:mailbox: If you want to connect with me, you can find me on  [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
