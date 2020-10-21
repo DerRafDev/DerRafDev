@@ -4,11 +4,11 @@ I'm a Computer Engineering student at UFMS and a Business student at UNIGRAN, I 
 
 
 
-<p> 🚧 | Full Stack in development </p>
-<p> 🎓 | Computer Engineering Student </p>
-<p> 🎓 | Business Student </p>
-<p> 📈 | Stock Market enthusiast </p>
-<p> 📊 | Machine Learning enthusiast </p>
+> 🚧 | Full Stack in development 
+> 🎓 | Computer Engineering Student 
+> 🎓 | Business Student 
+> 📈 | Stock Market enthusiast 
+> 📊 | Machine Learning enthusiast 
 
 
 :mailbox: If you want to connect with me, you can find me on  [![LinkedIn][2.2]][2].
