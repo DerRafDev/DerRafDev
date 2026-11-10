@@ -39,23 +39,9 @@
 
 ## Tech stack
 
-<p>
-  <img src="assets/stack-javascript.svg" height="40" alt="JavaScript">
-  <img src="assets/stack-typescript.svg" height="40" alt="TypeScript">
-  <img src="assets/stack-react.svg" height="40" alt="React">
-  <img src="assets/stack-astro.svg" height="40" alt="Astro">
-  <img src="assets/stack-html.svg" height="40" alt="HTML5">
-  <img src="assets/stack-css.svg" height="40" alt="CSS3">
-  <img src="assets/stack-tailwind.svg" height="40" alt="Tailwind CSS">
-  <img src="assets/stack-figma.svg" height="40" alt="Figma">
-  <img src="assets/stack-git.svg" height="40" alt="Git">
-  <img src="assets/stack-github.svg" height="40" alt="GitHub">
-  <img src="assets/stack-cloudflare.svg" height="40" alt="Cloudflare">
-  <img src="assets/stack-wordpress.svg" height="40" alt="WordPress">
-  <img src="assets/stack-framer.svg" height="40" alt="Framer">
-  <img src="assets/stack-design-systems.svg" height="40" alt="Design Systems">
-  <img src="assets/stack-ux-ui.svg" height="40" alt="UX / UI">
-</p>
+| Frontend | Design | Tools & Platforms |
+| :--- | :--- | :--- |
+| TypeScript · JavaScript<br>React · Astro<br>HTML5 · CSS3 · Tailwind CSS | Figma · Framer<br>Design Systems · UX/UI | Git · GitHub<br>Cloudflare · WordPress |
 
 ## Let's connect
 
