@@ -27,10 +27,10 @@
 <a href="https://rafaelsordi.com/">
   <img src="assets/portfolio-card.png" width="240" alt="View portfolio — rafaelsordi.com">
 </a>
-<br><br>
-<a href="https://www.linkedin.com/in/rafael-sordi/">
-  <img src="assets/linkedin.svg" width="124" alt="Connect with Rafael Sordi on LinkedIn">
-</a>
+
+<p>
+  <a href="https://www.linkedin.com/in/rafael-sordi/">LinkedIn ↗</a>
+</p>
 
 </td>
 </tr>
@@ -61,7 +61,3 @@
 Interested in frontend engineering, web design, or the space where design meets code? Let's talk.
 
 [Explore my portfolio →](https://rafaelsordi.com/) &nbsp; · &nbsp; [Connect on LinkedIn →](https://www.linkedin.com/in/rafael-sordi/)
-
----
-
-<sub>Thoughtful experiences, from the first idea to the last pixel.</sub>
