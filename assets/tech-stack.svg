@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1012" height="136" viewBox="0 0 1012 136" role="img" aria-labelledby="title desc">
+<title id="title">Tech stack</title>
+<desc id="desc">Frontend: TypeScript, JavaScript, React, Astro, HTML5, CSS3, Tailwind CSS. Design: Figma, Framer, Design Systems, UX/UI. Tools and platforms: Git, GitHub, Cloudflare, WordPress.</desc>
+<style>.label{fill:#5895ff}.body{fill:#d0d7de}.rule{stroke:#444c56}@media(prefers-color-scheme:light){.label{fill:#0550ae}.body{fill:#24292f}.rule{stroke:#d0d7de}}</style>
+<path class="rule" d="M334 12v109M672 12v109" fill="none"/>
+<g font-family="system-ui, sans-serif">
+<text class="label" x="0" y="29" font-size="15" font-weight="700" letter-spacing="1">FRONTEND</text>
+<text class="body" x="0" y="63" font-size="19">TypeScript · JavaScript</text>
+<text class="body" x="0" y="90" font-size="19">React · Astro</text>
+<text class="body" x="0" y="117" font-size="19">HTML5 · CSS3 · Tailwind CSS</text>
+<text class="label" x="367" y="29" font-size="15" font-weight="700" letter-spacing="1">DESIGN</text>
+<text class="body" x="367" y="63" font-size="19">Figma · Framer</text>
+<text class="body" x="367" y="90" font-size="19">Design Systems · UX/UI</text>
+<text class="label" x="705" y="29" font-size="15" font-weight="700" letter-spacing="1">TOOLS &amp; PLATFORMS</text>
+<text class="body" x="705" y="63" font-size="19">Git · GitHub</text>
+<text class="body" x="705" y="90" font-size="19">Cloudflare · WordPress</text>
+</g>
+</svg>
