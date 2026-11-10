@@ -39,9 +39,7 @@
 
 ## Tech stack
 
-| Frontend | Design | Tools & Platforms |
-| :--- | :--- | :--- |
-| TypeScript · JavaScript<br>React · Astro<br>HTML5 · CSS3 · Tailwind CSS | Figma · Framer<br>Design Systems · UX/UI | Git · GitHub<br>Cloudflare · WordPress |
+![Frontend: TypeScript, JavaScript, React, Astro, HTML5, CSS3, Tailwind CSS. Design: Figma, Framer, Design Systems, UX/UI. Tools and platforms: Git, GitHub, Cloudflare, WordPress.](assets/tech-stack.svg)
 
 ## Let's connect
 
