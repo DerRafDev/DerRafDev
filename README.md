@@ -28,9 +28,10 @@
   <img src="assets/portfolio-card.png" width="240" alt="View portfolio — rafaelsordi.com">
 </a>
 
-<p>
-  <a href="https://www.linkedin.com/in/rafael-sordi/">LinkedIn ↗</a>
-</p>
+<br><br>
+<a href="https://www.linkedin.com/in/rafael-sordi/">
+  <img src="assets/linkedin-link.svg" width="240" alt="Connect with Rafael Sordi on LinkedIn">
+</a>
 
 </td>
 </tr>
